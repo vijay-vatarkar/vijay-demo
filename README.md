@@ -1,3 +1,4 @@
 # vijay-demo
-this is my first Github repository. 
+This is my first Git repository. 
+<br>
 Author - Vijayy
